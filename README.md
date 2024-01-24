@@ -8,3 +8,6 @@ This line was added on VScode and pushed through git to main.
 This line was added on VScode and pushed through git to the branch part-2.
 Then it was merged to main.
 
+-Part 03:
+Changes in Branch A, while branch B is stashed.
+
